@@ -25,4 +25,4 @@ class Sensor:
         """
         :return: distance to the closest point to the sensor
         """
-        return 0
+        return 10
